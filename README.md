@@ -1,2 +1,2 @@
 # MyInvesmentApp
- SwiftUI
+ SwiftUI - MVVM - CleanCode - CoreData
